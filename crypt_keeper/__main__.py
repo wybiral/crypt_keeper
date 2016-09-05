@@ -1,3 +1,7 @@
+'''
+Main program tying crypt and keeper together.
+'''
+
 import sys
 import xerox
 from getpass import getpass

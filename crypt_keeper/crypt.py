@@ -1,3 +1,7 @@
+'''
+This module is Responsible for all cryptographic functionality.
+'''
+
 import os
 import string
 from random import SystemRandom

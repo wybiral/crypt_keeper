@@ -1,3 +1,7 @@
+'''
+The Keeper class is responsible for persistence functionality.
+'''
+
 import os
 import pickle
 
